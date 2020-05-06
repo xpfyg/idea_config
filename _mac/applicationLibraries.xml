@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="R Skeletons">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Remote Python 2.7.13 Docker (python:nest-matrix-tool) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

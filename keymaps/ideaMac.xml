@@ -1,0 +1,10 @@
+<keymap version="1" name="ideaMac快捷键" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+</keymap>
