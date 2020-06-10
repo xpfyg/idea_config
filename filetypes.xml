@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="service_list" type="PLAIN_TEXT" />
       <mapping pattern=".abc" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
