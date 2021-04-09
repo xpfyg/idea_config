@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate for this dependency" />
+      <item value="No qualifying bean of type" />
+      <item value="qualifying" />
       <item value="contained" />
       <item value="The number of key-value mappings contained in this map" />
       <item value="The load factor used when none specified in constructor" />
@@ -9,12 +13,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611463554229" />
+    <option name="lastTrimTime" value="1617965774825" />
   </component>
 </application>
