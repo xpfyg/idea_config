@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ensures that the entity content is fully consumed and the content stream, if exists, is closed. The process is done, &lt;i&gt;quietly&lt;i&gt; , without throwing any IOException." />
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption" />
       <item value="here is no getter for property named 'batch_id' in 'class com.dfire.fin.thirdpart.merchant.domain.model.MerchantChangeBatchLog'" />
       <item value="Duplicate spring bean id uniqueIdGenerator" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
