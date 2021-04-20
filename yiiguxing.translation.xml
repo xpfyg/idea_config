@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.alibaba.dubbo.rpc.RpcException: Forbid consumer 10.1.59.111 access service com.dfire.fin.merchant.wallet.service.IMerchantWalletService from registry zk1.2dfire-daily.com:2181 use dubbo version 2.6.0, Please check registry access list (whitelistblacklist)." />
       <item value="Duplicate spring bean id uniqueIdGenerator" />
       <item value="Creates a new &lt;code&gt;File&lt;code&gt; instance by converting the given pathname string into an abstract pathname. If the given string is the empty string, then the result is the empty abstract pathname." />
       <item value="submited" />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
