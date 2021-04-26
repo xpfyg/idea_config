@@ -6,6 +6,10 @@
           <option name="url" value="http://git.ishopex.cn" />
           <option name="userName" value="chihuan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.2dfire.net" />
+          <option name="userName" value="jiaozifen@2dfire.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
